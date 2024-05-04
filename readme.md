@@ -1,12 +1,12 @@
 
-# Cancer Staging - Calculated stage of cancer - Brigham Young T-N-M  Tumer-Nodes-Metasticies
-Calculated stage of cancer - Brigham Young T-N-M  Tumer-Nodes-Metasticies
+# Cancer Staging - Calculated stage of cancer - Brigham Young T-N-M  Tomer-Nodes-Metastasis
+Calculated stage of cancer - Brigham Young T-N-M  Tomer-Nodes-Metastasis
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Cancer Staging** - an example for your projects
 
-Calculated stage of cancer - Brigham Young T-N-M  Tumer-Nodes-Metasticies
+Calculated stage of cancer - Brigham Young T-N-M  Tomer-Nodes-Metastasis
 
 ![Image image_filename](sample.png)
 
@@ -38,4 +38,4 @@ To get started with the **Cancer Staging** solution repository, follow these ste
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](cancer_staging.png)  <br>
+    ## Deliverables or Figures![additional_image](cancer_staging.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
