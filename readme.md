@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Cancer Staging - Calculated stage of cancer - Brigham Young T-N-M  Tomer-Nodes-Metastasis
 Calculated stage of cancer - Brigham Young T-N-M  Tomer-Nodes-Metastasis
 
@@ -9,8 +11,6 @@ Welcome to the solution **Cancer Staging** - an example for your projects
 Calculated stage of cancer - Brigham Young T-N-M  Tomer-Nodes-Metastasis
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
