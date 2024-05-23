@@ -1,0 +1,14 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-05-22 21:49:20,532 - INFO - START cancer_staging =============================================
+2024-05-22 21:49:20,533 - INFO - START cancer_staging Start Time = 2024-05-22 21:49:20
+2024-05-22 21:49:20,533 - INFO - cancer_staging Step 0 - Initialize the configuration file parser
+2024-05-22 21:49:20,533 - INFO - Process cancer_staging Step 0 - Initializing and starting Logging Process.
+2024-05-22 21:49:20,563 - INFO - PERFORMANCE cancer_staging The total process duration was:0.03
+2024-05-22 21:49:20,563 - INFO - PERFORMANCE cancer_staging Stop Time = 2024-05-22 21:49:20
+2024-05-22 21:49:20,563 - INFO - PERFORMANCE cancer_staging Short process duration less than 3 Seconds:0.03
+2024-05-22 21:49:20,563 - INFO - PERFORMANCE cancer_staging Performance optimization is not reccomended
+2024-05-22 21:49:20,563 - INFO - END cancer_staging =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
